@@ -1,6 +1,6 @@
 {
   "name": "api-poi",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^5.9.0",
     "express": "^4.16.4"
   }
 }

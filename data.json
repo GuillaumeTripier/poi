@@ -1,0 +1,36 @@
+[{
+  "title": "ESGI",
+  "details": "Créée en 1983, l'école d'informatique ESGI forme ses étudiants aux évolutions de l'informatique en s'adaptant aux besoins des entreprises d'un secteur très dynamique.\nAccessible à partir du Bac, l'ESGI forme ses étudiants à tous les métiers de l'informatique à travers 8 spécialisations. C’est pourquoi l’ESGI propose 2 cycles : Cycle Bachelor (Bac à Bac+3) et Cycle Mastère (Bac+3 à Bac+5).\nDotée de nombreux laboratoires et construite sur une proximité très forte du monde de l'entreprise, l'ESGI est l'école d’informatique leader dans la formation d'informaticiens en alternance.",
+  "type": 1,
+  "coordinates": {
+    "lat": 48.849353,
+    "lon": 2.389849
+  }
+},
+{
+  "title": "Saint Antoine",
+  "type": 2,
+  "details": "Secrétariat 01 49 28  20 07",
+  "coordinates": {
+    "lat": 48.850426,
+    "lon": 2.382897
+  }
+},
+{
+  "title": "Elan",
+  "type": 3,
+  "coordinates": {
+    "lat": 48.856977,
+    "lon": 2.378992
+  }
+},
+{
+  "title": "Il bacaro",
+  "type": 4,
+  "details": "A deux pas du métro Voltaire, dans une petite rue tranquille donnant sur la rue de La Roquette, Il Bacaro est un restaurant de poche, où vous recevrez un accueil attentionné et chaleureux.",
+  "coordinates": {
+    "lat": 48.857323,
+    "lon": 2.382515
+  }
+}
+]
